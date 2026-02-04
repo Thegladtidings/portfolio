@@ -1,4 +1,4 @@
-import '../styles/Projects.css'
+import '../styles/projects.css'
 import { useState } from 'react'
 
 export default function Projects() {
