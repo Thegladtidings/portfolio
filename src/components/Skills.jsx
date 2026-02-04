@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import '../styles/Skills.css'
+import '../styles/skills.css'
 import { FaReact, FaNodeJs, FaMobileAlt, FaProjectDiagram } from 'react-icons/fa'
 
 export default function Skills() {
